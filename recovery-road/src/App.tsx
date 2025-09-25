@@ -36,7 +36,7 @@ export default function RecoveryRoad() {
         {/* Contact */}
         <div className="space-y-2 text-green-800 mb-10">
           <p className="flex items-center justify-center gap-2 font-sans">
-            <span className="material-icons text-green-700">location_on</span>
+            <span className="material-icons text-green-700">phone</span>
             518-525-5537
           </p>
           <p className="flex items-center justify-center gap-2 font-sans">
