@@ -12,5 +12,5 @@ export default defineConfig({
     }),
     tailwindcss(),
   ],
-  base: '/'
+  base: '/dads-website/recovery-road/',
 })
