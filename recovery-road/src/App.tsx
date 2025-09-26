@@ -4,11 +4,8 @@ export default function RecoveryRoad() {
       <div className="max-w-lg w-full mx-auto flex flex-col items-center text-center font-sans">
         {/* Title */}
         <h1 className="text-4xl font-bold text-green-900 mb-2 tracking-tight font-sans">
-          Recovery Road
+          Recovery With JimmyGuy
         </h1>
-        <h2 className="text-2xl font-semibold text-green-900 mb-6 tracking-tight font-sans">
-          with Jimmy
-        </h2>
 
         {/* Subtitle */}
         <p className="uppercase tracking-wide text-green-700 font-medium mb-8 font-sans">
@@ -24,20 +21,20 @@ export default function RecoveryRoad() {
             <li>Personalized recovery coaching</li>
             <li>Peer support from lived experience</li>
             <li>Goal setting &amp; accountability</li>
-            <li>Ongoing encouragement and guidance</li>
+            <li>Recovery coaching Huron County and area</li>
           </ul>
         </div>
 
         {/* Location */}
         <p className="font-semibold text-green-900 mb-4 font-sans">
-          Serving Goderich, Ontario
+          Serving Goderich, Ontario and surrounding areas
         </p>
 
         {/* Contact */}
         <div className="space-y-2 text-green-800 mb-10">
           <p className="flex items-center justify-center gap-2 font-sans">
             <span className="text-green-700">phone</span>
-            518-525-5537
+            519-525-5537
           </p>
           <p className="flex items-center justify-center gap-2 font-sans">
             <span className="text-green-700">email</span>
